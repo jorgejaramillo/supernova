@@ -1,0 +1,2 @@
+# supernova
+Theme para Stronglify! 
